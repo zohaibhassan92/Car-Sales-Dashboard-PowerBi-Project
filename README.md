@@ -20,6 +20,8 @@ Watch the project video on YouTube: [Car Sales Dashboard Video](https://youtu.be
 
 [![Car Sales Dashboard Video](https://img.youtube.com/vi/js6LWgVLGcg/0.jpg)](https://youtu.be/js6LWgVLGcg)
 
+![Alt Text](screenshot.png)
+
 ## FeedBack
 If you have any feedback, suggestions, or questions about these projects, feel free to open an issue or reach out to me directly.
 

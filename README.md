@@ -18,9 +18,9 @@ The `Project Screenshot file` contains images that show different parts of the p
 ## Project Video
 Watch the project video on YouTube: [Car Sales Dashboard Video](https://youtu.be/js6LWgVLGcg).
 
-[![Car Sales Dashboard Video](https://img.youtube.com/vi/js6LWgVLGcg/0.jpg)](https://youtu.be/js6LWgVLGcg)
 
-![Alt Text](Screenshot2.png)
+
+![Alt Text](screenshot.png)
 
 ## FeedBack
 If you have any feedback, suggestions, or questions about these projects, feel free to open an issue or reach out to me directly.
